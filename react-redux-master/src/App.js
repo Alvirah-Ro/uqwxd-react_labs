@@ -1,10 +1,10 @@
 import React from 'react';
-import MainPanel from './components/MainPanel';
+import EnterWords from './components/EnterWords';
 
 function App() {
   return (
       <div>
-        <MainPanel/>
+        <EnterWords />
       </div>
     );
 }
